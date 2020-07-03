@@ -1,0 +1,16 @@
+C:\Users\Administrator\Documents\Visual Studio 2019\projects\JdbCardExchangeRateApiUAT\JdbCardExchangeRateApiUAT\bin\Release\netcoreapp2.1\appsettings.Development.json
+C:\Users\Administrator\Documents\Visual Studio 2019\projects\JdbCardExchangeRateApiUAT\JdbCardExchangeRateApiUAT\bin\Release\netcoreapp2.1\appsettings.json
+C:\Users\Administrator\Documents\Visual Studio 2019\projects\JdbCardExchangeRateApiUAT\JdbCardExchangeRateApiUAT\bin\Release\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Administrator\Documents\Visual Studio 2019\projects\JdbCardExchangeRateApiUAT\JdbCardExchangeRateApiUAT\bin\Release\netcoreapp2.1\JdbCardExchangeRateApiUAT.deps.json
+C:\Users\Administrator\Documents\Visual Studio 2019\projects\JdbCardExchangeRateApiUAT\JdbCardExchangeRateApiUAT\bin\Release\netcoreapp2.1\JdbCardExchangeRateApiUAT.runtimeconfig.json
+C:\Users\Administrator\Documents\Visual Studio 2019\projects\JdbCardExchangeRateApiUAT\JdbCardExchangeRateApiUAT\bin\Release\netcoreapp2.1\JdbCardExchangeRateApiUAT.runtimeconfig.dev.json
+C:\Users\Administrator\Documents\Visual Studio 2019\projects\JdbCardExchangeRateApiUAT\JdbCardExchangeRateApiUAT\bin\Release\netcoreapp2.1\JdbCardExchangeRateApiUAT.dll
+C:\Users\Administrator\Documents\Visual Studio 2019\projects\JdbCardExchangeRateApiUAT\JdbCardExchangeRateApiUAT\bin\Release\netcoreapp2.1\JdbCardExchangeRateApiUAT.pdb
+C:\Users\Administrator\Documents\Visual Studio 2019\projects\JdbCardExchangeRateApiUAT\JdbCardExchangeRateApiUAT\obj\Release\netcoreapp2.1\JdbCardExchangeRateApiUAT.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2019\projects\JdbCardExchangeRateApiUAT\JdbCardExchangeRateApiUAT\obj\Release\netcoreapp2.1\JdbCardExchangeRateApiUAT.RazorAssemblyInfo.cache
+C:\Users\Administrator\Documents\Visual Studio 2019\projects\JdbCardExchangeRateApiUAT\JdbCardExchangeRateApiUAT\obj\Release\netcoreapp2.1\JdbCardExchangeRateApiUAT.RazorAssemblyInfo.cs
+C:\Users\Administrator\Documents\Visual Studio 2019\projects\JdbCardExchangeRateApiUAT\JdbCardExchangeRateApiUAT\obj\Release\netcoreapp2.1\JdbCardExchangeRateApiUAT.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2019\projects\JdbCardExchangeRateApiUAT\JdbCardExchangeRateApiUAT\obj\Release\netcoreapp2.1\JdbCardExchangeRateApiUAT.AssemblyInfo.cs
+C:\Users\Administrator\Documents\Visual Studio 2019\projects\JdbCardExchangeRateApiUAT\JdbCardExchangeRateApiUAT\obj\Release\netcoreapp2.1\JdbCardExchangeRateApiUAT.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator\Documents\Visual Studio 2019\projects\JdbCardExchangeRateApiUAT\JdbCardExchangeRateApiUAT\obj\Release\netcoreapp2.1\JdbCardExchangeRateApiUAT.dll
+C:\Users\Administrator\Documents\Visual Studio 2019\projects\JdbCardExchangeRateApiUAT\JdbCardExchangeRateApiUAT\obj\Release\netcoreapp2.1\JdbCardExchangeRateApiUAT.pdb
